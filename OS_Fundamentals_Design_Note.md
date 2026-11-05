@@ -1,4 +1,4 @@
-# OS Fundamentals – Design Note
+OS Fundamentals – Design Note
 
  Capstone Project
 
@@ -15,18 +15,18 @@ An Operating System (OS) is system software that acts as an interface between th
 
  Topics Covered
 
-| Module | Topic |
-|---|---|
-| 1 | Introduction to Operating Systems |
-| 2 | Process Management |
-| 3 | CPU Scheduling |
-| 4 | Deadlocks |
-| 5 | Memory Management |
-| 6 | Page Replacement |
-| 7 | Disk Scheduling |
-| 8 | File Management |
-| 9 | OS Security |
-| 10 | Conclusion |
+Module        Topic 
+
+| 1 |       Introduction to Operating Systems 
+| 2 |       Process Management 
+| 3 |       CPU Scheduling 
+| 4 |       Deadlocks 
+| 5 |       Memory Management 
+| 6 |       Page Replacement 
+| 7 |       Disk Scheduling 
+| 8 |       File Management 
+| 9 |       OS Security 
+| 10 |      Conclusion 
 
  Technologies
 - Operating Systems
